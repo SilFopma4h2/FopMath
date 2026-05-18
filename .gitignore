@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Build outputs
+build/
+dist/
+*.whl
+
+# Native artifacts
+*.pyd
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exp
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# CMake/VS
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.sln
+*.vcxproj*
+*.dir/
+.vs/
+x64/

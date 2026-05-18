@@ -1,0 +1,6 @@
+include README.md
+include main.cpp
+include functies.cpp
+include functies.hpp
+include CMakeLists.txt
+include main.py
